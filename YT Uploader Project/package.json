@@ -1,0 +1,24 @@
+{
+  "name": "anime_sense",
+  "version": "1.0.0",
+  "description": "Anime Sense Youtube Project",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InvalidAccount69/Anime_Sense_Project.git"
+  },
+  "author": "BlackSnowDot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/InvalidAccount69/Anime_Sense_Project/issues"
+  },
+  "homepage": "https://github.com/InvalidAccount69/Anime_Sense_Project#readme",
+  "dependencies": {
+    "youtube-auto-upload-video": "^1.0.0",
+    "youtube-videos-uploader": "^1.3.54"
+  }
+}

@@ -1,0 +1,2 @@
+a project for upload video on youtube
+you can make a auto video uploader bot or something else
